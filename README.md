@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cheikhndiouck
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning software engeneering and data-bases (license 2)
+- 🌱 I’m currently learning software engeneering and data-bases
 - 💞️ I’m looking to collaborate on the platform to help me improve.
 - I'm french too 😂
 <!---
